@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Former QA-engineer, systems and business analyst and UX designer.
+
 Languages and tools: 
 
 - Python, SQL
