@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Languages and tools: 
 
-- Python
+- Python, SQL
 - SQLite
 - FastAPI, Jinja2
 - Penpot, Figma
