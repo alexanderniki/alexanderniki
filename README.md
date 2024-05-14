@@ -17,14 +17,18 @@ Here are some ideas to get you started:
 
 Former QA-engineer, systems and business analyst and UX designer.
 
-Languages and tools: 
+I'm currently working as a developer and CTO on [gdevolna.surf](gdevolna.surf) project - a collection of surfing-related information (spots, schools, workshops and so on)
+
+I'm currently learning data analysis.
+
+### Languages and tools
 
 - Python, SQL
 - SQLite
 - FastAPI, Jinja2
 - Penpot, Figma
 
-My stats:
+### Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderniki)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderniki)
