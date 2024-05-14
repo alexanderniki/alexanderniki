@@ -23,7 +23,7 @@ I'm currently learning data analysis, statistics and information theory.
 
 ### Languages and tools
 
-- Python, SQL
+- Python, SQL, (some) HTML/CSS and JS
 - SQLite
 - FastAPI, Jinja2
 - Penpot, Figma
