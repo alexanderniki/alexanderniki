@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! 👋 I'm Alexander.
 
 <!--
 **alexanderniki/alexanderniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages and tools: 
+
+- Python
+- SQLite
+- FastAPI, Jinja2
+- Penpot, Figma
