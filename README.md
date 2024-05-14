@@ -25,4 +25,4 @@ Languages and tools:
 - Penpot, Figma
 
 My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderniki)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderniki)
