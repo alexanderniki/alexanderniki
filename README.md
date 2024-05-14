@@ -27,6 +27,7 @@ I'm currently learning data analysis.
 - SQLite
 - FastAPI, Jinja2
 - Penpot, Figma
+- DBeaver, VS Code
 
 ### Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderniki)
