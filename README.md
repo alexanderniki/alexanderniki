@@ -26,3 +26,5 @@ Languages and tools:
 
 My stats:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderniki)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderniki)
