@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Former QA-engineer, systems and business analyst and UX designer.
 
-I'm currently working as a developer and CTO on [gdevolna.surf](gdevolna.surf) project - a collection of surfing-related information (spots, schools, workshops and so on)
+I'm currently working as a developer and CTO on [gdevolna.surf](http://gdevolna.surf) project - a collection of surfing-related information (spots, schools, workshops and so on)
 
 I'm currently learning data analysis.
 
