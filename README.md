@@ -27,7 +27,7 @@ I'm currently learning python, data analysis, statistics and information theory.
 - SQLite
 - FastAPI, Jinja2
 - Penpot, Figma
-- DBeaver, VS Code
+- DBeaver, VSCodium
 
 ### Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderniki)
