@@ -16,18 +16,22 @@ Here are some ideas to get you started:
 -->
 
 Former QA-engineer, systems and business analyst and UX designer.
+I love design, programming and computer science. 
 
-<!-- I'm currently working as a developer and CTO on [gdevolna.surf](http://gdevolna.surf) project - a collection of surfing-related information (spots, schools, workshops and so on).-->
+### I work with
+<p><a href=#>
+    <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,html,css,js,dart,swift,git,bash,figma" alt="Skills icon set">
+</a></p>
 
 I'm currently learning python, data analysis, statistics and information theory.
 
-### Languages and tools
+<!--### Languages and tools
 
 - Python, SQL, (some) HTML/CSS and JS
 - SQLite
 - FastAPI, Jinja2
 - Penpot, Figma
-- DBeaver, VSCodium
+- DBeaver, VSCodium-->
 
 ### Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexanderniki)
