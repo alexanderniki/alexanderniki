@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Former QA-engineer, systems and business analyst and UX designer.
-I love design, programming and computer science. 
+I love design, programming and computer/information science. 
 
 ### I work with
 <p><a href=#>
