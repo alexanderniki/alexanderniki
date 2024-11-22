@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Former QA-engineer, systems and business analyst and UX designer.
 I love design, programming and computer/information science. 
+
+Former QA-engineer, systems and business analyst and UX designer.
 
 ### I work with
 <p><a href=#>
