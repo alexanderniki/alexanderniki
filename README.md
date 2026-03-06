@@ -21,7 +21,7 @@ Former systems and business analyst, UX designer and QA-engineer.
 
 ### I often work with
 <p><a href=#>
-    <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,git,figma" alt="Skills icon set">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,git,figma,penpot" alt="Skills icon set">
 </a></p>
 
 I'm currently learning python, data analysis, statistics and information theory.
