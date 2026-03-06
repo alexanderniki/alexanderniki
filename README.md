@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I love design, programming and computer/information science. 
 
-Former QA-engineer, systems and business analyst and UX designer.
+Former systems and business analyst, UX designer and QA-engineer.
 
-### I work with
+### I often work with
 <p><a href=#>
-    <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,html,css,js,dart,swift,git,bash,figma" alt="Skills icon set">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,git,figma" alt="Skills icon set">
 </a></p>
 
 I'm currently learning python, data analysis, statistics and information theory.
